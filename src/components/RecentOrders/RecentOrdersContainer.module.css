@@ -1,8 +1,22 @@
 .container{
    display: flex;
    flex-direction: column;
-   width: 15rem;
+   /* width: 15rem; */
+   width: fit-content;
+   padding-left: 1rem;
+   padding-right: 1rem;
    background: #464646;
-   border-radius: 5px;
+   border-radius: 8px;
    align-items: center;
+   position: absolute;
+   bottom: 1rem;
+   margin-left: 1rem;
+}
+
+.title{
+   font-family: 'Poppins';
+   font-weight: 700;
+   color: #B0B0B0;
+   margin-top: 1rem;
+   margin-bottom: 2rem;
 }

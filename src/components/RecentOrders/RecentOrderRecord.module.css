@@ -1,13 +1,15 @@
 .recordContainer{
    display: flex;
    flex-direction: row;
+   padding-bottom: 0.9rem;
+   border-bottom: rgba(255, 255, 255, 0.5) solid 1px;
+   margin-bottom: 1rem;
 }
 
 .status{
    font-family: 'Poppins';
-   font-size: 0.2rem;
+   font-size: 0.1em;
    font-weight: 800;
-   padding: 0.5rem;
    border-radius: 6px;
    background-color: #2980B9;
    color: white;
@@ -17,8 +19,8 @@
 }
 
 .orderID{
-   font-family: 'Poppins';
+   font-family: 'Roboto';
    font-weight: 600;
-   font-size: 1.2rem;
+   font-size: 1.5rem;
    color: white;
 }
