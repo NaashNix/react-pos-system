@@ -18,8 +18,8 @@ const MealTypeIcon = (props) => {
 			className={`${classes.outer__Div}`}
 		>
 			<img className={classes.smallIcon} src={breakfast_cup} alt="" />
-			<span className={classes.mainHeading}>Breakfast</span>
-			<span className={classes.subHeading}>13 Items</span>
+			<span className={classes.mainHeading}>{props.mainHeading}</span>
+			<span className={classes.subHeading}>{props.subHeading}</span>
 		</div>
 	);
 };

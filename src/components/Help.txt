@@ -1,0 +1,4 @@
+Usage of MealTypeIcon component : 
+      <MealTypeIcon defColor='#B4FFF6' onColor='#75FFEE' />
+      <MealTypeIcon defColor='#A4FFB8' onColor='#65FF87' />
+   
