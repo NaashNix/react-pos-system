@@ -29,6 +29,18 @@ const MealIconContainer = () => {
 				defColor="#A4FFB8"
 				onColor="#65FF87"
 			/>
+			<MealTypeIcon
+				mainHeading="Drinks"
+				subHeading="25 Items"
+				defColor="#A4FFB8"
+				onColor="#65FF87"
+			/>
+			<MealTypeIcon
+				mainHeading="Drinks"
+				subHeading="25 Items"
+				defColor="#A4FFB8"
+				onColor="#65FF87"
+			/>
 		</div>
 	);
 }

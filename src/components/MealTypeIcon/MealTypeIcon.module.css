@@ -5,7 +5,7 @@
    border-radius: 10px;
    position: relative;
    transition: background-color ease-in 250ms;
-}
+} 
 
 .outer__Div:hover{
    background-color: #75FFEE;
