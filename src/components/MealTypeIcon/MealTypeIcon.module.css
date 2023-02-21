@@ -1,0 +1,40 @@
+.outer__Div{
+   height: 8rem;
+   width: 8rem;
+   margin: 1rem;
+   border-radius: 10px;
+   position: relative;
+   transition: background-color ease-in 250ms;
+}
+
+.outer__Div:hover{
+   background-color: #75FFEE;
+   cursor: pointer;
+   transition: all ease-in-out 250ms;
+}
+
+.mainHeading{
+   position: absolute;
+   font-family: 'Poppins';
+   font-weight: 700;
+   font-size: 1rem;
+   left: 10%;
+   bottom: 20%;
+}
+
+.subHeading{
+   position: absolute;
+   font-family: 'Poppins';
+   font-weight: 500;
+   font-size: 0.6rem;
+   left: 10%;
+   bottom: 10%;
+}
+
+.smallIcon{
+   width: 1.5rem;
+   position: absolute;
+   left: 10%;
+   top: 10%;
+}
+
