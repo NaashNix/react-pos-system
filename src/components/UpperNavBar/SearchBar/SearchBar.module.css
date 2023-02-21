@@ -1,0 +1,34 @@
+.container{
+   position: relative;
+   width: fit-content;
+   height: fit-content;
+   left: 10rem;
+}
+
+.inputBox{
+   background-color: #2D2D2D;
+   border-radius: 5px;
+   padding: 0.5rem;
+   border: 0;
+}
+
+.searchIcon{
+   position: absolute;
+   width: 1.5rem;
+   top: 0;
+   bottom: 0;
+   margin: auto;
+   left: 0.5rem;   
+}
+
+.searchSpan{
+   position: absolute;
+   left: 2.5rem;
+   top: 0;
+   bottom: 0;
+   margin: auto;
+   color: #AEAEAE;
+   font-family: 'Poppins';
+   font-weight: 500;
+   line-height: 2;
+}

@@ -1,0 +1,12 @@
+.outer{
+   position: relative;
+   /* background-color: black; */
+   width: 10%;
+   /* margin: 1rem; */
+}
+
+.image{
+   width: 100%;
+   /* position: absolute; */
+   
+}
