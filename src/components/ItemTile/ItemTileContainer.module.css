@@ -1,0 +1,11 @@
+.outer{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   position: absolute;
+   left: 22%;
+   width: 40rem;
+   top: 20rem;
+   overflow: scroll;
+   height: 20rem;
+}

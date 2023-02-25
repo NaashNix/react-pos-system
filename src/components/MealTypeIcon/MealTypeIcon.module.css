@@ -1,5 +1,5 @@
 .outer__Div{
-   height: 8rem;
+   height: 5rem;
    width: 8rem;
    margin: 0.5rem;
    border-radius: 10px;
@@ -16,7 +16,7 @@
 .mainHeading{
    position: absolute;
    font-family: 'Poppins';
-   font-weight: 700;
+   font-weight: 800;
    font-size: 1rem;
    left: 10%;
    bottom: 20%;
@@ -28,7 +28,7 @@
    font-weight: 500;
    font-size: 0.6rem;
    left: 10%;
-   bottom: 10%;
+   bottom: 5%;
 }
 
 .smallIcon{
