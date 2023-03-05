@@ -4,8 +4,9 @@
    flex-wrap: wrap;
    position: absolute;
    left: 22%;
-   width: 40rem;
+   width: 45%;
    top: 20rem;
    overflow: scroll;
    height: 20rem;
+   background-color: red;
 }

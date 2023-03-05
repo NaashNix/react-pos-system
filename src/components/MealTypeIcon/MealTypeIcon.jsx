@@ -4,6 +4,7 @@ import breakfast_cup from "../../assets/breakfast.png";
 
 const MealTypeIcon = (props) => {
 	const [mouseEnter, setMouseEnter] = useState(false);
+	
 	return (
 		<div
 			style={{
